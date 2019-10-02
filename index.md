@@ -3,8 +3,7 @@
 <body>
 
 <p class="MsoNormal"><b style="mso-bidi-font-weight:normal">
-<span style="font-size:16.0pt;mso-bidi-font-size:11.0pt;line-height:107%">
-PROGRAMADOR .NET FREELANCE<o:p></o:p></span></b></p>
+<h1>PROGRAMADOR .NET FREELANCE</h1></b></p>
 <p class="MsoNormal"><a href="http://www.ingenia.com.sv">
 <span style="font-size:
 16.0pt;mso-bidi-font-size:11.0pt;line-height:107%">Ingenia S.A. de C.V</span></a><span class="MsoHyperlink"><span style="font-size:16.0pt;mso-bidi-font-size:11.0pt;
