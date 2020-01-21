@@ -220,7 +220,7 @@ text-transform:uppercase;letter-spacing:.75pt;mso-fareast-language:ES-SV">
   normal">
 		<span style="mso-bidi-font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ES-SV">
-		El salario se negociará según experiencia demostrada en función del tiempo de trabajo en el área y aplicaciones desarrolladas.<o:p></o:p></span></p>
+		El salario se negociará según experiencia demostrable.<o:p></o:p></span></p>
 		</td>
 	</tr>
 	<tr style="mso-yfti-irow:7">
