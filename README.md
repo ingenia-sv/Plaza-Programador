@@ -102,7 +102,7 @@ text-transform:uppercase;letter-spacing:.75pt;mso-fareast-language:ES-SV">
   normal">
 		<span style="mso-bidi-font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ES-SV">
-		Por proyecto<o:p></o:p></span></p>
+		Tiempo completo<o:p></o:p></span></p>
 		</td>
 	</tr>
 	<tr style="mso-yfti-irow:3">
@@ -220,8 +220,7 @@ text-transform:uppercase;letter-spacing:.75pt;mso-fareast-language:ES-SV">
   normal">
 		<span style="mso-bidi-font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ES-SV">
-		El costo del proyecto se negociará según duración estimada y otros 
-		factores involucrados.<o:p></o:p></span></p>
+		El salario se negociará según experiencia demostrada en función del tiempo de trabajo en el área y aplicaciones desarrolladas.<o:p></o:p></span></p>
 		</td>
 	</tr>
 	<tr style="mso-yfti-irow:7">
@@ -296,7 +295,7 @@ text-transform:uppercase;letter-spacing:.75pt;mso-fareast-language:ES-SV">
 </div>
 <p class="MsoNormal" style="text-align: justify; line-height: 19.8pt; background: white">
 <span style="mso-bidi-font-family: Arial; color: #4E4E4E; background: white">Se 
-requiere un programador para trabajo por proyectos en el desarrollo e 
+requiere un programador para trabajo tiempo completo en desarrollo e 
 implementación de aplicaciones en entornos .NET/C# y con habilidad para creación 
 de clientes para S.O. Windows o Multiplataforma. Además, se requiere 
 experiencias con bases de datos, principalmente SQL Server o MySQL. El manejo de 
