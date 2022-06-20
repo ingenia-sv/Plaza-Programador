@@ -2,6 +2,8 @@
 <html>
 <title>ingenia - Programador .NET/SQL</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="shourcut icon" href="files/favicon.ico">
 <style>
     body {
         font-family: sans-serif;
@@ -65,7 +67,7 @@
     <h4>Oportunidad laboral</h4>
     <h1>PROGRAMADOR .NET/SQL</h1>
     <div class="w3-container">
-        <h3><a href="http://www.ingenia.com.sv">Ingenia S.A. de C.V</h3>
+        <h3><a href="http://www.ingenia.com.sv">Ingenia S.A. de C.V</a></h3>
 
         <p class="MsoNormal" style="margin-bottom:12.0pt">
         <a class="link-no-style" href="https://goo.gl/maps/Z5JZFKDNEoeNBhYF8" ">📌 Santa Tecla, La Libertad</a>    
