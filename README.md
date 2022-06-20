@@ -1,412 +1,175 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 <html>
+<title>ingenia - Programador .NET/SQL</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="shourcut icon" href="files/favicon.ico">
+<style>
+    body {
+        font-family: sans-serif;
+        margin: auto;
+        max-width: 960px;
+    }
+    a.link-no-style {
+        font-family: sans-serif;
+        color: black;
+        font-weight: normal;
+        text-decoration:none;
+    }
+    ul {
+        list-style: none;
+        margin-left: 0;
+        padding-left: 0;
+    }
+
+    li {
+        padding-left: 3em;
+        text-indent: -1.7em;
+    }
+
+    li:before {
+        content: "☑️";
+        padding-right: 5px;
+    }
+
+    table{
+        border-collapse:collapse;border:solid #BFBFBF 1.0pt;
+    }
+    
+    tr{
+        height: 30pt;
+        vertical-align: middle;
+    }
+
+    td.cell-header{
+        font-family: sans-serif;
+        color: black;
+        font-weight: bold;
+        text-decoration:none;
+        width:141.5pt;border:solid #BFBFBF 1.0pt;
+    }
+    td.cell-info{
+        font-family: sans-serif;
+        color: black;
+        font-weight: normal;
+        text-decoration:none;
+        width:398.1pt;border-top:none;border-left:
+        none;border-bottom:solid #BFBFBF 1.0pt;
+    }
+    h1,h2,h3,h4,h5,h6{
+        font-family: sans-serif;
+        color: black;
+        font-weight: bold;
+        text-decoration:none;
+    }
+</style>
 <body>
+    <h4>Oportunidad laboral</h4>
+    <h1>PROGRAMADOR .NET/SQL</h1>
+    <div class="w3-container">
+        <h3><a href="http://www.ingenia.com.sv">Ingenia S.A. de C.V</h3>
 
-<p class="MsoNormal">
-<p><b style="mso-bidi-font-weight:normal">Oportunidad laboral</b></p>
-<b style="mso-bidi-font-weight:normal"><h1>PROGRAMADOR .NET FREELANCE</h1></b></p>
-<p class="MsoNormal"><a href="http://www.ingenia.com.sv">
-<span style="font-size:
-16.0pt;mso-bidi-font-size:11.0pt;line-height:107%">Ingenia S.A. de C.V</span></a><span class="MsoHyperlink"><span style="font-size:16.0pt;mso-bidi-font-size:11.0pt;
-line-height:107%">.</span></span><span style="font-size:16.0pt;mso-bidi-font-size:
-11.0pt;line-height:107%"><o:p></o:p></span></p>
-<p class="MsoNormal" style="margin-bottom:12.0pt">
-<a href="https://goo.gl/maps/Z5JZFKDNEoeNBhYF8">
-<span style="font-size: 11.5pt; line-height: 107%; font-family: &quot;Segoe UI Symbol&quot;,sans-serif; mso-bidi-font-family: &quot;Segoe UI Symbol&quot;; color: windowtext; background: white">
-📌 Santa Tecla, La Libertad</span></a><span style="font-size: 11.5pt; line-height: 107%; font-family: &quot;Segoe UI Symbol&quot;,sans-serif; mso-bidi-font-family: &quot;Segoe UI Symbol&quot;; background: white"><o:p></o:p></span></p>
-<div style="mso-element: para-border-div; border: none; border-bottom: solid #DADADA 1.0pt; mso-border-bottom-alt: solid #DADADA .75pt; padding: 0cm 0cm 10.0pt 0cm; background: white">
-	<p class="MsoNormal" style="margin-top: 12.0pt; margin-right: 0cm; margin-bottom: 3.0pt; margin-left: 0cm; mso-line-height-alt: 12.0pt; mso-outline-level: 2; background: white; border: none; mso-border-bottom-alt: solid #DADADA .75pt; padding: 0cm; mso-padding-alt: 0cm 0cm 10.0pt 0cm">
-	<b style="mso-bidi-font-weight:
-normal">
-	<span style="font-size:16.0pt;mso-bidi-font-size:18.0pt;font-family:
-&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#323232;
-text-transform:uppercase;letter-spacing:.75pt;mso-fareast-language:ES-SV">
-	DETALLE DE LA OFERTA<o:p></o:p></span></b></p>
-</div>
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid #BFBFBF .5pt;
- mso-border-themecolor:background1;mso-border-themeshade:191;mso-yfti-tbllook:
- 1184;mso-border-insideh:.5pt solid #BFBFBF;mso-border-insideh-themecolor:background1;
- mso-border-insideh-themeshade:191;mso-border-insidev:.5pt solid #BFBFBF;
- mso-border-insidev-themecolor:background1;mso-border-insidev-themeshade:191">
-	<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
-		<td width="189" valign="top" style="width:141.5pt;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;mso-border-alt:
-  solid #BFBFBF .5pt;mso-border-themecolor:background1;mso-border-themeshade:
-  191;padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><b>
-		<span style="mso-bidi-font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#4E4E4E;mso-fareast-language:
-  ES-SV">Área de la Empresa<o:p></o:p></span></b></p>
-		</td>
-		<td width="531" valign="top" style="width:398.1pt;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;border-left:none;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal">
-		<span style="mso-bidi-font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ES-SV">
-		Automatización Industrial<o:p></o:p></span></p>
-		</td>
-	</tr>
-	<tr style="mso-yfti-irow:1">
-		<td width="189" valign="top" style="width:141.5pt;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;border-top:none;
-  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
-  mso-border-top-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><b>
-		<span style="mso-bidi-font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#4E4E4E;mso-fareast-language:
-  ES-SV">Cargo Solicitado<o:p></o:p></span></b></p>
-		</td>
-		<td width="531" valign="top" style="width:398.1pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal">
-		<span style="mso-bidi-font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ES-SV">
-		Analista | Programador<o:p></o:p></span></p>
-		</td>
-	</tr>
-	<tr style="mso-yfti-irow:2">
-		<td width="189" valign="top" style="width:141.5pt;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;border-top:none;
-  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
-  mso-border-top-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><b>
-		<span style="mso-bidi-font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#4E4E4E;mso-fareast-language:
-  ES-SV">Tipo de contratación<o:p></o:p></span></b></p>
-		</td>
-		<td width="531" valign="top" style="width:398.1pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal">
-		<span style="mso-bidi-font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ES-SV">
-		Tiempo completo<o:p></o:p></span></p>
-		</td>
-	</tr>
-	<tr style="mso-yfti-irow:3">
-		<td width="189" valign="top" style="width:141.5pt;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;border-top:none;
-  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
-  mso-border-top-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><b>
-		<span style="mso-bidi-font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#4E4E4E;mso-fareast-language:
-  ES-SV">Nivel de experiencia<o:p></o:p></span></b></p>
-		</td>
-		<td width="531" valign="top" style="width:398.1pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal">
-		<span style="mso-bidi-font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ES-SV">2
-		</span>
-		<span style="mso-bidi-font-size:12.0pt;font-family:&quot;Segoe UI Symbol&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Segoe UI Symbol&quot;;
-  mso-fareast-language:ES-SV">➟</span><span style="mso-bidi-font-size:12.0pt;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-fareast-language:ES-SV"> 10 años<o:p></o:p></span></p>
-		</td>
-	</tr>
-	<tr style="mso-yfti-irow:4">
-		<td width="189" valign="top" style="width:141.5pt;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;border-top:none;
-  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
-  mso-border-top-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><b>
-		<span style="mso-bidi-font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#4E4E4E;mso-fareast-language:
-  ES-SV">Género<o:p></o:p></span></b></p>
-		</td>
-		<td width="531" valign="top" style="width:398.1pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal">
-		<span style="mso-bidi-font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ES-SV">
-		Indiferente<o:p></o:p></span></p>
-		</td>
-	</tr>
-	<tr style="mso-yfti-irow:5">
-		<td width="189" valign="top" style="width:141.5pt;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;border-top:none;
-  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
-  mso-border-top-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><b>
-		<span style="mso-bidi-font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#4E4E4E;mso-fareast-language:
-  ES-SV">Edad<u><o:p></o:p></u></span></b></p>
-		</td>
-		<td width="531" valign="top" style="width:398.1pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal">
-		<span style="mso-bidi-font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ES-SV">
-		20 </span>
-		<span style="mso-bidi-font-size:12.0pt;font-family:&quot;Segoe UI Symbol&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Segoe UI Symbol&quot;;
-  mso-fareast-language:ES-SV">➟</span><span style="mso-bidi-font-size:12.0pt;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-fareast-language:ES-SV"> 40<o:p></o:p></span></p>
-		</td>
-	</tr>
-	<tr style="mso-yfti-irow:6">
-		<td width="189" valign="top" style="width:141.5pt;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;border-top:none;
-  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
-  mso-border-top-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><b>
-		<span style="mso-bidi-font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#4E4E4E;mso-fareast-language:
-  ES-SV">Salario<o:p></o:p></span></b></p>
-		</td>
-		<td width="531" valign="top" style="width:398.1pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal">
-		<span style="mso-bidi-font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ES-SV">
-		El salario se negociará según experiencia demostrable.<o:p></o:p></span></p>
-		</td>
-	</tr>
-	<tr style="mso-yfti-irow:7">
-		<td width="189" style="width:141.5pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
-  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
-  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
-  mso-border-themeshade:191;padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><b>
-		<span style="mso-bidi-font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#4E4E4E;mso-fareast-language:
-  ES-SV">Vehículo<o:p></o:p></span></b></p>
-		</td>
-		<td width="531" style="width:398.1pt;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal">
-		<span style="mso-bidi-font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ES-SV">
-		Con vehículo propio para visitas a lugar de puesta en marcha.<o:p></o:p></span></p>
-		</td>
-	</tr>
-	<tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes">
-		<td width="189" style="width:141.5pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
-  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
-  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
-  mso-border-themeshade:191;padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><b>
-		<span style="mso-bidi-font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#4E4E4E;mso-fareast-language:
-  ES-SV">Contacto<o:p></o:p></span></b></p>
-		</td>
-		<td width="531" style="width:398.1pt;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><a href="mailto:ingenia@ingenia.com.sv">
-		<span style="mso-bidi-font-size:
-  12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-fareast-language:ES-SV">ingenia@ingenia.com.sv</span></a><span style="mso-bidi-font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ES-SV"><o:p></o:p></span></p>
-		</td>
-	</tr>
-</table>
-<div style="mso-element: para-border-div; border: none; border-bottom: solid #DADADA 1.0pt; mso-border-bottom-alt: solid #DADADA .75pt; padding: 0cm 0cm 10.0pt 0cm; background: white">
-	<p class="MsoNormal" style="margin-bottom: 0cm; margin-bottom: .0001pt; line-height: normal; mso-outline-level: 2; background: white; border: none; mso-border-bottom-alt: solid #DADADA .75pt; padding: 0cm; mso-padding-alt: 0cm 0cm 10.0pt 0cm">
-	<b style="mso-bidi-font-weight:normal">
-	<span style="font-family:&quot;Arial&quot;,sans-serif;
-mso-fareast-font-family:&quot;Times New Roman&quot;;color:#323232;text-transform:uppercase;
-letter-spacing:.75pt;mso-fareast-language:ES-SV"><o:p>&nbsp;</o:p></span></b></p>
-	<p class="MsoNormal" style="margin-top: 12.0pt; margin-right: 0cm; margin-bottom: 3.0pt; margin-left: 0cm; mso-line-height-alt: 12.0pt; mso-outline-level: 2; background: white; border: none; mso-border-bottom-alt: solid #DADADA .75pt; padding: 0cm; mso-padding-alt: 0cm 0cm 10.0pt 0cm">
-	<b style="mso-bidi-font-weight:
-normal">
-	<span style="font-size:16.0pt;mso-bidi-font-size:18.0pt;font-family:
-&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#323232;
-text-transform:uppercase;letter-spacing:.75pt;mso-fareast-language:ES-SV">
-	DESCRIPCIÓN DE LA OFERTA<o:p></o:p></span></b></p>
-</div>
-<p class="MsoNormal" style="text-align: justify; line-height: 19.8pt; background: white">
-<span style="mso-bidi-font-family: Arial; color: #4E4E4E; background: white">Se 
-requiere un programador para trabajo tiempo completo en desarrollo e 
-implementación de aplicaciones en entornos .NET/C# y con habilidad para creación 
-de clientes para S.O. Windows o Multiplataforma. Además, se requiere 
-experiencias con bases de datos, principalmente SQL Server o MySQL. El manejo de 
-Git para control de versiones y trabajo colaborativo también sería necesario.<u><o:p></o:p></u></span></p>
-<p class="MsoNormal" style="text-align: justify; line-height: 19.8pt; background: white">
-<span style="mso-bidi-font-family: Arial; color: #4E4E4E; background: white">Los 
-proyectos consisten principalmente en la creación de aplicaciones para el 
-control de procesos automatizados en los que de hardware hay principalmente 
-lectores de código de barras, RFID, impresoras, panel para firma, etc. Los 
-fabricantes de estos dispositivos brindan DLL y SDK para múltiples sistemas 
-operativos para facilitar al programador el diseño de aplicaciones propias. 
-Algunos datos de la interacción con el hardware y los operadores se almacenarán 
-en bases de datos y se permitirá la generación de reportes con tablas 
-exportables a hojas de datos.<o:p></o:p></span></p>
-<p class="MsoNormal" style="text-align: justify; line-height: 19.8pt; background: white">
-<span style="mso-bidi-font-family: Arial; color: #4E4E4E; background: white">
-Aparte de los SKD, en la empresa ya se ha trabajado con muchos de los 
-dispositivos mencionados, por lo que se cuenta con apoyo y ejemplos. Se 
-utilizará repositorios privados en GitHub para las revisiones y para posibles 
-colaboraciones de algún miembro del equipo interno de programadores que tenga 
-experiencia previa con los equipos. <o:p></o:p></span></p>
-<p class="MsoNormal" style="text-align: justify; line-height: 19.8pt; background: white">
-<span style="mso-bidi-font-family: Arial; color: #4E4E4E; background: white">En 
-futuros proyectos se desea integrar este tipo de aplicaciones con servicios de 
-internet con el objetivo de supervisar y controlar los procesos automatizados 
-desde el móvil y otras plataformas. Para esto sería útil manejar JavaScript, 
-Node.js, JSON y la aplicación de esto en REST API.<o:p></o:p></span></p>
-<div style="mso-element: para-border-div; border: none; border-bottom: solid #DADADA 1.0pt; mso-border-bottom-alt: solid #DADADA .75pt; padding: 0cm 0cm 10.0pt 0cm; background: white">
-	<p class="MsoNormal" style="margin-top: 12.0pt; margin-right: 0cm; margin-bottom: 3.0pt; margin-left: 0cm; mso-line-height-alt: 12.0pt; mso-outline-level: 2; background: white; border: none; mso-border-bottom-alt: solid #DADADA .75pt; padding: 0cm; mso-padding-alt: 0cm 0cm 10.0pt 0cm">
-	<b style="mso-bidi-font-weight:
-normal"><u>
-	<span style="font-size:16.0pt;mso-bidi-font-size:18.0pt;font-family:
-&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#323232;
-text-transform:uppercase;letter-spacing:.75pt;mso-fareast-language:ES-SV"><o:p>
-	<span style="text-decoration:none">&nbsp;</span></o:p></span></u></b></p>
-	<p class="MsoNormal" style="margin-top: 12.0pt; margin-right: 0cm; margin-bottom: 3.0pt; margin-left: 0cm; mso-line-height-alt: 12.0pt; mso-outline-level: 2; background: white; border: none; mso-border-bottom-alt: solid #DADADA .75pt; padding: 0cm; mso-padding-alt: 0cm 0cm 10.0pt 0cm">
-	<b style="mso-bidi-font-weight:
-normal">
-	<span style="font-size:16.0pt;mso-bidi-font-size:18.0pt;font-family:
-&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#323232;
-text-transform:uppercase;letter-spacing:.75pt;mso-fareast-language:ES-SV">
-	EXPERIENCIA REQUERIDA<o:p></o:p></span></b></p>
-</div>
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-yfti-tbllook:1184">
-	<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
-		<td style="padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoListParagraphCxSpFirst" style="margin-bottom:0cm;margin-bottom:
-  .0001pt;mso-add-space:auto;text-indent:-18.0pt;line-height:normal;mso-list:
-  l0 level1 lfo1"><![if !supportLists]>
-		<span style="font-size:12.0pt;
-  font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
-  Wingdings;color:#4E4E4E;mso-fareast-language:ES-SV;mso-bidi-font-weight:bold">
-		<span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;
-		</span></span></span><![endif]><b>
-		<span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  &quot;Times New Roman&quot;;color:#4E4E4E;mso-fareast-language:ES-SV">
-		Programación en .NET Framework o .NET Core<o:p></o:p></span></b></p>
-		<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:0cm;margin-bottom:
-  .0001pt;mso-add-space:auto;text-indent:-18.0pt;line-height:normal;mso-list:
-  l0 level1 lfo1"><![if !supportLists]>
-		<span style="font-size:12.0pt;
-  font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
-  Wingdings;color:#4E4E4E;mso-fareast-language:ES-SV;mso-bidi-font-weight:bold">
-		<span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;
-		</span></span></span><![endif]><b>
-		<span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  &quot;Times New Roman&quot;;color:#4E4E4E;mso-fareast-language:ES-SV">Creación 
-		e interacción con bases de datos en SQL Server o MySQL<o:p></o:p></span></b></p>
-		<p class="MsoListParagraphCxSpLast" style="margin-bottom:0cm;margin-bottom:
-  .0001pt;mso-add-space:auto;text-indent:-18.0pt;line-height:normal;mso-list:
-  l0 level1 lfo1"><![if !supportLists]>
-		<span style="font-size:12.0pt;
-  font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
-  Wingdings;color:#4E4E4E;mso-fareast-language:ES-SV;mso-bidi-font-weight:bold">
-		<span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;
-		</span></span></span><![endif]><b>
-		<span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  &quot;Times New Roman&quot;;color:#4E4E4E;mso-fareast-language:ES-SV">Manejo 
-		de repositorios en Git y Github<o:p></o:p></span></b></p>
-		</td>
-	</tr>
-	<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes">
-		<td style="padding:1.5pt 33.75pt 1.5pt 7.5pt"></td>
-	</tr>
-</table>
-<div style="mso-element: para-border-div; border: none; border-bottom: solid #DADADA 1.0pt; mso-border-bottom-alt: solid #DADADA .75pt; padding: 0cm 0cm 10.0pt 0cm; background: white">
-	<p class="MsoNormal" style="margin-top: 12.0pt; margin-right: 0cm; margin-bottom: 3.0pt; margin-left: 0cm; mso-line-height-alt: 12.0pt; mso-outline-level: 2; background: white; border: none; mso-border-bottom-alt: solid #DADADA .75pt; padding: 0cm; mso-padding-alt: 0cm 0cm 10.0pt 0cm">
-	<b style="mso-bidi-font-weight:
-normal">
-	<span style="font-size:16.0pt;mso-bidi-font-size:18.0pt;font-family:
-&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#323232;
-text-transform:uppercase;letter-spacing:.75pt;mso-fareast-language:ES-SV">
-	EDUCACIÓN SUPERIOR<o:p></o:p></span></b></p>
-</div>
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-yfti-tbllook:1184">
-	<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes">
-		<td style="padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoNormal"><b>
-		<span style="font-size:9.0pt;line-height:107%;
-  font-family:&quot;Arial&quot;,sans-serif;color:#4E4E4E">Informática | Sistemas<br />
-		<span class="opcional"><i>(Opcional)</i></span><o:p></o:p></span></b></p>
-		</td>
-		<td style="padding:1.5pt 33.75pt 1.5pt 7.5pt">
-		<p class="MsoNormal">
-		<span style="font-size:9.0pt;line-height:107%;font-family:
-  &quot;Arial&quot;,sans-serif;color:#4E4E4E">Último año, egresado o graduado<o:p></o:p></span></p>
-		</td>
-	</tr>
-</table>
-<p class="MsoNormal" align="right" style="text-align:right"><o:p>&nbsp;</o:p></p>
+        <p class="MsoNormal" style="margin-bottom:12.0pt">
+        <a class="link-no-style" href="https://goo.gl/maps/Z5JZFKDNEoeNBhYF8" ">📌 Santa Tecla, La Libertad</a>    
+        </p>
+    </div>
+    
+    <div class="w3-container">
+        <h2>DETALLE DE LA OFERTA</h2>
+        <table>
+            <tr>
+                <td class="cell-header">Área de la empresa</td>
+                <td class="cell-info">Automatización y Desarrollo de Software para Procesos Industriales</td>
+            </tr>
+            <tr>
+                <td class="cell-header">Cargo Solicitado</td>
+                <td class="cell-info">Desarrollador de software en .NET/SQL</td>
+            </tr>
+            <tr>
+                <td class="cell-header">Tipo de contratación</td>
+                <td class="cell-info">Tiempo completo</td>
+            </tr>
+            <tr>
+                <td class="cell-header">Nivel de experiencia</td>
+                <td class="cell-info">de 1 a 3 años</td>
+            </tr>
+            <tr>
+                <td class="cell-header">Edad</td>
+                <td class="cell-info">de 20 a 35 años</td>
+            </tr>
+            <tr>
+                <td class="cell-header">Vehículo</td>
+                <td class="cell-info">Preferentemente con vehículo propio</td>
+            </tr>
+            <tr>
+                <td class="cell-header">Contacto</td>
+                <td class="cell-info"><a href="mailto:ingenia@ingenia.com.sv">ingenia@ingenia.com.sv</a></td>
+            </tr>
+        </table>
+    </div>
+    <br>
+    <div class="w3-container">
+        <h2>EXPERIENCIA REQUERIDA</h2>
+        <p class="MsoNormal" style="text-align: justify; line-height: 19.8pt; background: white">
+            <span style="mso-bidi-font-family: Arial; color: #4E4E4E; background: white">
+                <b>Programación en .NET Framework o .NET Core</b>
+                <ul>    
+                    <li>Habilitades avanzadas en diseño de interfaces visuales en Formularios y Controles de Usuario.</li>
+                    <li>Manejo avanzado de los tipos de datos de C#, conversiones, estructuras de control y clases.</li>
+                    <li>Manejo básico de <b>DataTables</b> , 
+                        <b>DataSets</b>  y   <b> DataGridViews</b>.</li>
+                    <li>Manejo básico de <b>BackgroundWorkers</b>
+                        y estructura <b>Try-Catch</b> .</li>
+                </ul>
+                <u><o:p></o:p></u>
+            </span>
+        </p>
+        <p class="MsoNormal" style="text-align: justify; line-height: 19.8pt; background: white">
+            <span style="mso-bidi-font-family: Arial; color: #4E4E4E; background: white">
+                <b>Bases de datos en SQL Server o MySQL</b>
+                <ul>    
+                    <li>Creación de bases de datos, tablas y sus respectivas columnas.</li>
+                    <li>Manejo avanzado de <b>instrucciones de SQL.</b> <br>(SELECT, UPDATE, INSERT, DELETE, WHERE)</li>
+                    <li>Interacción de SQL con otras aplicaciones, principalmente con Visual Studio.</li>
+                </ul>
+                <u><o:p></o:p></u>
+            </span>
+        </p>
+        <p class="MsoNormal" style="text-align: justify; line-height: 19.8pt; background: white">
+            <span style="mso-bidi-font-family: Arial; color: #4E4E4E; background: white">
+                <b>Git y GitHub/GitLab</b>
+                <ul>    
+                    <li>Manejo de repositorios locales y remotos <b>al menos con interfaces visuales </b>
+                        como la de Visual Studio, Visual Studio Code o aplicaciones específicas para uso de Git en Windows.</li>
+                </ul>
+                <u><o:p></o:p></u>
+            </span>
+        </p>
+    </div>
 
+    <div class="w3-container">
+        <h2>DESCRIPCIÓN DE LA OFERTA</h2>
+        <p>Somos una empresa especializada en la integración de sistemas de automatización industrial. Proveemos soluciones completas aplicando tecnología avanzada de automatización, instrumentación, comunicación y desarrollo informático.
+        </p>
+        <p>Para este cargo, requerimos un desarrollador de aplicaciones en lenguaje C# para .NET con interacción con bases de datos en Microsoft SQL Server o MySQL. Además, se requiere el manejo de Git para el control de versiones y para el trabajo colaborativo y, para los repositorios remotos, la experiencia en GitLab o GitHub es necesaria.
+        </p>
+        <p>En su mayoría, se desarrollará aplicaciones de escritorio para Windows Forms en .NET Framework con enfoque a interfases para control logístico, sistemas de calidad y automatización de procesos. En algunos casos habrá que comunicarse con hardware de identificación por código de barras, RFID y otras tecnologías. Los fabricantes de estos dispositivos brindan SDK y DLL para facilitar al programador el diseño de aplicaciones propias, sin embargo, en la empresa ya se ha trabajado con muchos de los dispositivos mencionados, por lo que se cuenta con apoyo del equipo de desarrollo y ejemplos.
+        </p>
+        <p>En futuros proyectos se desea integrar este tipo de aplicaciones con servicios de internet con el objetivo de supervisar y controlar los procesos automatizados desde el móvil y otras plataformas. Para esto sería útil manejar ASP .NET, JavaScript, HTML y Node.js. Pero esto ya sería un extra que tomaríamos en cuenta para la determinación del salario.
+        </p>
+    </div>
+
+    <div class="w3-container">
+        <h2>EDUCACIÓN SUPERIOR</h2>
+        <div class="w3-row-padding w3-border w3-border-gray" style="vertical-align: middle;">
+            <div class="w3-col w3-center w3-container" style="width:190px;">
+                <p>Informática | Sistemas <br>(Opcional)</p></div>
+            <div class="w3-rest-padding w3-container " style="display: table-cell;">
+                <p><span class="w3-text-red">Último año, egresado o graduado.</span><br>
+                *Otras ramas de la ingeniería y otro nivel de progreso en la carrera se pueden considerar si las habilidades requeridas son demostrables (preferentemente con portafolio en GitHub o GitLab).</p></div>
+        </div>
+    </div>
+
+    <br>
 </body>
-
 </html>
