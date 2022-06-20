@@ -110,9 +110,8 @@
     <br>
     <div class="w3-container">
         <h2>EXPERIENCIA REQUERIDA</h2>
-        <p class="MsoNormal" style="text-align: justify; line-height: 19.8pt; background: white">
-            <span style="mso-bidi-font-family: Arial; color: #4E4E4E; background: white">
-                <b>Programación en .NET Framework o .NET Core</b>
+        <p style="text-align: justify;">
+            <b>Programación en .NET Framework o .NET Core</b>
                 <ul>    
                     <li>Habilitades avanzadas en diseño de interfaces visuales en Formularios y Controles de Usuario.</li>
                     <li>Manejo avanzado de los tipos de datos de C#, conversiones, estructuras de control y clases.</li>
@@ -121,29 +120,21 @@
                     <li>Manejo básico de <b>BackgroundWorkers</b>
                         y estructura <b>Try-Catch</b> .</li>
                 </ul>
-                <u><o:p></o:p></u>
-            </span>
         </p>
-        <p class="MsoNormal" style="text-align: justify; line-height: 19.8pt; background: white">
-            <span style="mso-bidi-font-family: Arial; color: #4E4E4E; background: white">
-                <b>Bases de datos en SQL Server o MySQL</b>
+        <p style="text-align: justify;">
+            <b>Bases de datos en SQL Server o MySQL</b>
                 <ul>    
                     <li>Creación de bases de datos, tablas y sus respectivas columnas.</li>
                     <li>Manejo avanzado de <b>instrucciones de SQL.</b> <br>(SELECT, UPDATE, INSERT, DELETE, WHERE)</li>
                     <li>Interacción de SQL con otras aplicaciones, principalmente con Visual Studio.</li>
                 </ul>
-                <u><o:p></o:p></u>
-            </span>
         </p>
-        <p class="MsoNormal" style="text-align: justify; line-height: 19.8pt; background: white">
-            <span style="mso-bidi-font-family: Arial; color: #4E4E4E; background: white">
-                <b>Git y GitHub/GitLab</b>
+        <p style="text-align: justify;">
+            <b>Git y GitHub/GitLab</b>
                 <ul>    
                     <li>Manejo de repositorios locales y remotos <b>al menos con interfaces visuales </b>
                         como la de Visual Studio, Visual Studio Code o aplicaciones específicas para uso de Git en Windows.</li>
                 </ul>
-                <u><o:p></o:p></u>
-            </span>
         </p>
     </div>
 
